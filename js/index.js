@@ -14,14 +14,8 @@
 
 
 let nom3 = () => {
-
+    console.log('Abduvoris');
 }
-
-
-// setTimeout(() => {
-//     nom3(2, 5)
-// }, 5000)
-
 
 
 setInterval(() => {
